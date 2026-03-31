@@ -24,16 +24,14 @@ Um gerador de senhas robusto em Python com interface gráfica Tkinter, validaç�
 
 Instalação
 
-bash
-pip install pyperclip
 
-Nota: Tkinter já vem com Python.
-2. Executar
+    pip install pyperclip
 
-bash
-python gerador_senhas.py
+Executar
 
-3. Funcionamento
+    python gerador_senhas.py
+
+Funcionamento
 
     Digite o tamanho da senha (mínimo 6)
 
@@ -51,13 +49,14 @@ python gerador_senhas.py
 
 Tecnologias
 
-    secrets	Geração criptograficamente segura
-    Tkinter	Interface gráfica nativa
-    pyperclip	Cópia para clipboard
-    datetime	Timestamp nos logs
+    secrets:	Geração criptograficamente segura
+    Tkinter:	Interface gráfica nativa
+    pyperclip:	Cópia para clipboard
+    datetime:	Timestamp nos logs
 
 Estrutura do projeto
-   gerador_senhas/
-├── gerador_senhas.py     # App principal
-├── senhas.txt           # Senhas salvas
-└── README.md            # Este arquivo
+   
+     gerador_senhas/
+         ├── gerador_senhas.py     # App principal
+         ├── senhas.txt           # Senhas salvas
+         └── README.md            # Este arquivo
