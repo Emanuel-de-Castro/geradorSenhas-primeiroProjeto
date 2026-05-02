@@ -60,3 +60,24 @@ Estrutura do projeto
          ├── gerador_senhas.py     # App principal
          ├── senhas.txt           # Senhas salvas
          └── README.md            # Este arquivo
+
+
+
+
+
+# Código Funcionando
+
+
+<img width="800" height="450" alt="1" src="https://github.com/user-attachments/assets/426b965d-b115-435e-b0c2-b8ca1713b6c7" />
+
+
+
+
+<img width="800" height="450" alt="2" src="https://github.com/user-attachments/assets/82a40acc-de1c-4596-881e-ee4e7f8bc012" />
+
+
+
+
+<img width="800" height="450" alt="3" src="https://github.com/user-attachments/assets/fb1c41ea-fd58-4d2b-8334-fbc03198b952" />
+
+
